@@ -1,0 +1,17 @@
+table{
+    border: #b2b2b2 1px solid;
+} 
+td{
+    border: black 1px solid;
+}
+iframe{
+    border-width: 0px;
+}
+/*shape general*/
+area{
+    shape-outside:shape-image;
+}
+
+.navv ul li a:hover{
+    border-bottom: 2px solid black;
+}
